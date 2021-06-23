@@ -1,7 +1,7 @@
-### Olá, meu nome é Pedro Farah 👋
+## Olá, meu nome é Pedro Farah 👋
 
 
-## Sou estudante de Engenharia de Controle e Automação!
+### Sou estudante de Engenharia de Controle e Automação!
 
 - 🎓 Aluno da Universidade Federal de Lavras 
 - 🤖 Interesse em Ciência de Dados e Inteligência Artificial
