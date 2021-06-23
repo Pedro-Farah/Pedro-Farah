@@ -45,6 +45,3 @@
 [website]: https://codeSTACKr.com
 
 
-#### Referência
-
-[Site de referência][website]
