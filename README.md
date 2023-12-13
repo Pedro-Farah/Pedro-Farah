@@ -3,10 +3,11 @@
 
 ### Sou formado em Engenharia de Controle e Automação!
 
-- 🎓 Aluno da Universidade Federal de Lavras 
-- 🤖 Interesse em Ciência de Dados e Inteligência Artificial
+- 🎓 Formado pela Universidade Federal de Lavras 
+- 🤖 Interesse em Ciência de Dados e Inteligência Artificial e Desenvolvimento de softwares
 - ⚡ Sempre em busca de aprendizado
 - 🎮 Hobbies: Videogames, Filmes, Livros e Música
+- 💻 Desenvolvedor na Vetta S.A
 
 
 
